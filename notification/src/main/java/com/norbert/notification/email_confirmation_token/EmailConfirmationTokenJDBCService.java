@@ -38,7 +38,7 @@ public class EmailConfirmationTokenJDBCService implements EmailConfirmationToken
         PreparedStatement preparedStatement = null;
 
         try {
-            connection = createUserDataBaseSource().getConnection(); // Відкриваємо нове з'єднання
+            connection = createUserDataBaseSource().getConnection();
             String sql = """
                 UPDATE "user" SET enabled = true WHERE email = ?
                 """;

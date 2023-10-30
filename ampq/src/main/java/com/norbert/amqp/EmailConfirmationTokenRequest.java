@@ -2,7 +2,8 @@ package com.norbert.amqp;
 
 
 
-public record EmailConfirmationTokenRequest
+public record
+EmailConfirmationTokenRequest
         (
                 String email
         ) {

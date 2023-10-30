@@ -5,7 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0b5b779-a1e7-4152-9987-374478976178" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/17844395-5fc4-45df-b1d8-2f8c953138cb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/17844395-5fc4-45df-b1d8-2f8c953138cb/storage_v2/_src_/database/user.y-s2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/17844395-5fc4-45df-b1d8-2f8c953138cb/storage_v2/_src_/database/user.y-s2AA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/17844395-5fc4-45df-b1d8-2f8c953138cb/storage_v2/_src_/database/user.y-s2AA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/17844395-5fc4-45df-b1d8-2f8c953138cb/storage_v2/_src_/database/user.y-s2AA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/notification.64h6Iw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/notification.64h6Iw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/notification.64h6Iw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/notification.64h6Iw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23580325-8bb4-4e62-92ce-5b156482ebef/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/user.y-s2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/user.y-s2AA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/user.y-s2AA/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/user.y-s2AA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/user.y-s2AA/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cdd1c7f2-fa97-4519-a52b-387bec69da0a/storage_v2/_src_/database/user.y-s2AA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5/storage_v2/_src_/database/user.y-s2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5/storage_v2/_src_/database/user.y-s2AA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5/storage_v2/_src_/database/user.y-s2AA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7c2cfd4-f62c-4c00-a2d6-c61cbce072f5/storage_v2/_src_/database/user.y-s2AA/schema/public.abK9xQ.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ampq/pom.xml" afterDir="false" />
@@ -70,7 +104,11 @@
       <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/norbert/customer/user/request/PasswordUpdatingRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/customer/src/main/resources/banner.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/customer/src/main/resources/db/migration/V1__Initial_Version.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/.$Customer Database Diagram Design.drawio.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/.$Microservices Architecture.drawio.bkp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagrams/Microservices Architecture.drawio" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka_server/src/main/java/com/norbert/eureka_server/EurekaServerApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka_server/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eureka_server/src/main/resources/banner.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/notification/src/main/java/com/norbert/notification/NotificationApplication.java" afterDir="false" />
@@ -105,7 +143,7 @@
       <change beforePath="$PROJECT_DIR$/customer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diagrams/Customer Database Diagram Design.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/diagrams/Customer Database Diagram Design.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_server/src/main/java/com/norbert/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/src/main/java/com/norbert/eureka_server/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/src/main/java/com/norbert/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification/src/main/java/com/norbert/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -127,6 +165,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -147,7 +188,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "last_opened_file_path": "D:/pet_projects_resume/twaincards/apigw/src/main/resources",
@@ -285,7 +326,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698425731345</updated>
       <workItem from="1698425732381" duration="484000" />
-      <workItem from="1698490667887" duration="54387000" />
+      <workItem from="1698490667887" duration="55305000" />
     </task>
     <servers />
   </component>
