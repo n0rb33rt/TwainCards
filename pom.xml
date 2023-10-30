@@ -12,6 +12,9 @@
         <module>customer</module>
         <module>eureka_server</module>
         <module>notification</module>
+        <module>ampq</module>
+        <module>apigw</module>
+        <module>translator</module>
     </modules>
 
     <properties>

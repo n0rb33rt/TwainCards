@@ -10,11 +10,75 @@
     </parent>
 
     <artifactId>notification</artifactId>
-
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <postgresql.driver.version>42.6.0</postgresql.driver.version>
+        <jjwt.version>0.11.5</jjwt.version>
+        <flyway.core.version>9.19.4</flyway.core.version>
     </properties>
+    <dependencies>
+        <!---                          Spring Boot Web                                   -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+
+        <!--                                  Netflix Eureka Client                                    -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
+        <!--                                       Mail Sender                                         -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-mail</artifactId>
+        </dependency>
+        <!--                                    Database Connection                                    -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jdbc</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>${postgresql.driver.version}</version>
+            <scope>runtime</scope>
+        </dependency>
+        <!--                                   JWT AUTHENTICATION                                      -->
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt-api</artifactId>
+            <version>${jjwt.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt-impl</artifactId>
+            <version>${jjwt.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt-jackson</artifactId>
+            <version>${jjwt.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.flywaydb</groupId>
+            <artifactId>flyway-core</artifactId>
+            <version>${flyway.core.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.norbert</groupId>
+            <artifactId>ampq</artifactId>
+            <version>TWAINCARDS-1.0</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
 </project>
