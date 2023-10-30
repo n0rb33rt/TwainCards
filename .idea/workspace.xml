@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0b5b779-a1e7-4152-9987-374478976178" name="Changes" comment="" />
+    <list default="true" id="d0b5b779-a1e7-4152-9987-374478976178" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/diagrams/Microservices_Architecture.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698425731345</updated>
       <workItem from="1698425732381" duration="484000" />
-      <workItem from="1698490667887" duration="55654000" />
+      <workItem from="1698490667887" duration="55996000" />
     </task>
     <servers />
   </component>
