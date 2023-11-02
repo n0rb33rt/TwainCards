@@ -1,11 +1,11 @@
 package com.norbert.customer.authentication;
 
-import com.norbert.amqp.EmailConfirmationTokenRequest;
 import com.norbert.customer.authentication.request.SimpleFormAuthenticationRequest;
 import com.norbert.customer.authentication.request.SimpleFormRegistrationRequest;
 import com.norbert.customer.authentication.response.AuthenticationResponse;
 import com.norbert.customer.config.RabbitMQMessageProducer;
 import com.norbert.customer.exception.BadRequestException;
+import com.norbert.customer.jwt.JwtService;
 import com.norbert.customer.user.Role;
 import com.norbert.customer.user.User;
 

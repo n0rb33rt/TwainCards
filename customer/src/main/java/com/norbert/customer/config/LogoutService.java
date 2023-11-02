@@ -1,7 +1,7 @@
 package com.norbert.customer.config;
 
 
-import com.norbert.customer.authentication.JwtService;
+import com.norbert.customer.jwt.JwtService;
 import com.norbert.customer.jwt.JwtToken;
 import com.norbert.customer.jwt.JwtTokenJDBCService;
 import jakarta.servlet.http.HttpServletRequest;

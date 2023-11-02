@@ -1,7 +1,7 @@
 package com.norbert.customer.config;
 
 
-import com.norbert.customer.authentication.JwtService;
+import com.norbert.customer.jwt.JwtService;
 import com.norbert.customer.exception.JwtTokenNotFoundException;
 import com.norbert.customer.exception.JwtTokenRevokedException;
 import com.norbert.customer.user.User;
