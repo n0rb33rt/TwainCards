@@ -48,3 +48,6 @@ Containerize and run services
 
 ![Microservices Architecture](diagrams/Microservices_Architecture.png)
 
+## Database Design
+![Microservices Architecture](diagrams/Customer_Database_Diagram_Design.png)
+
