@@ -60,5 +60,15 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <version>${spring.boot.dependencies.version}</version>
         </dependency>
+        <dependency>
+            <groupId>net.eledge</groupId>
+            <artifactId>UrlBuilder</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>net.eledge</groupId>
+            <artifactId>UrlBuilder</artifactId>
+            <version>1.2.0</version>
+        </dependency>
     </dependencies>
 </project>

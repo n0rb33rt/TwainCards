@@ -79,6 +79,16 @@
             <version>TWAINCARDS-1.0</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>net.eledge</groupId>
+            <artifactId>UrlBuilder</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>net.eledge</groupId>
+            <artifactId>UrlBuilder</artifactId>
+            <version>1.2.0</version>
+        </dependency>
     </dependencies>
 
 </project>
